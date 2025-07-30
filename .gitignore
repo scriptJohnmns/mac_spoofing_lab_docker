@@ -1,0 +1,11 @@
+.directory
+# macOS files
+.DS_Store
+# Thumbs.db for Windows
+Thumbs.db
+# Python compiled files
+__pycache__/
+*.pyc
+# Virtual environments
+venv/
+.env/
